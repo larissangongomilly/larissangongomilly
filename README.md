@@ -1,20 +1,20 @@
-# Larissa Ngongo Milly
+# Hi, I'm Larissa
 
-Studentin der Wirtschaftsinformatik an der **TU Berlin** mit Interesse an SAP, IT-Security und KI.
+I study **business informatics at TU Berlin**, right where business and technology meet. I like turning ideas into things people can actually use, and I learn best by building them.
 
-## Schwerpunkte
-- 💻 SAP und Business-Software
-- 🔐 IT-Security (Verteidigung und Lernen)
-- 🤖 KI und Agenten
+## What drives me
+- **AI and agents:** how AI can solve real problems for real people, not just look impressive
+- **SAP and business software:** the systems that keep companies running
+- **IT security:** defending systems and learning how attacks work
+- **Building products:** from the first idea to something live, including hackathons
 
-## Aktuelle Projekte
-- 🌐 Portfolio-Website (in Arbeit)
-- 💻 Probeklausur-Generator (geplant)
-- 💻 Calisthenics-Progress-App (geplant)
+## What I'm working on
+- **[Calisthenics AI Coach](https://github.com/larissangongomilly/calisthenics-ai-coach):** live form feedback through the phone camera ([demo](https://calisthenics-ai-coach.pages.dev/?demo))
+- **Portfolio website** (in progress)
+- **Practice exam generator** (planned)
 
-## Sprachen
-Deutsch (Muttersprache) · Englisch (C1) · Französisch (B2)
+## Languages
+German (native) · English (C1) · French (B2)
 
-## Kontakt
-[LinkedIn](https://
-www.linkedin.com/in/larissa-ngongo-milly-69809b332)
+## Contact
+[LinkedIn](https://www.linkedin.com/in/larissa-ngongo-milly-69809b332)
